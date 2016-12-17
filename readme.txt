@@ -1,0 +1,1 @@
+Eventr is a social networking platform that helps you find the best events closest to you. By swiping through events and indicating which events you are interested in, depending on whether the event is public or private, the host will match you and the details of the event will be sent to you. For a more in-depth explanation, see the "App Proposal" document for more information!
